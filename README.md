@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rajan14-11
+- 👋 Hi, I’m Rajan Goyal
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on React Projects
+- 🌱 I’m a MERN stack developer with 1 year of experience.
+- 💞️ I’m looking to collaborate on MERN stack Projects.
 - 📫 How to reach me at rajangoyal710@gmail.com
 
 <!---
